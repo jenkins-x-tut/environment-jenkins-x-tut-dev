@@ -1,0 +1,10 @@
+adminUser:
+  password: local:jenkins-x-tut/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: jangel3t@protonmail.com
+  token: local:jenkins-x-tut/pipelineUser:token
+  username: jenkins-x-jangelet-tut
+prow:
+  hmacToken: local:jenkins-x-tut/prow:hmacToken
